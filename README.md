@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the "Data Scientist: Natural Language Processing Specialist" learning program offered by Codecademy. 
+- 🔭 I’m currently learning the AI technology.
 - 🌱 On the side, I’m currently learning how to play poker!! 
 - 👯 I’m looking to collaborate on fun AI projects.
 - 🤔 I’m looking for help with learning machine learning faster.
